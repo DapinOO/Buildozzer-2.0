@@ -58,7 +58,6 @@ ul > li {
 ul > li:hover {
     background-color: white;
     color: #41A3FB;
-};
 }
 
 ul > li:active {
