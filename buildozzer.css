@@ -1,14 +1,8 @@
 body,html {
-    margin: 0;
-    padding: 0;
+    margin: 200;
+    padding: 200;
     font-family: 'Open Sans', sans-serif;
-    color: fff;
-}
-
-body {
-    background: url(skywallpaper.webp);
-    background-size: cover;
-    background-repeat: no-repeat;
+    color: #41A3FB;
 }
 
 header {
