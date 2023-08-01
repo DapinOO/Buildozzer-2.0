@@ -2,7 +2,8 @@ body,html {
     margin: 200;
     padding: 200;
     font-family: 'Open Sans', sans-serif;
-    color: #41A3FB;
+    color: black;
+    background-color: #41A3FB;
 }
 
 header {
